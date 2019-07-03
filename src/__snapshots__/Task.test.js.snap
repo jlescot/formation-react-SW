@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Task /> matches snapshot 1`] = `
+<li
+  onClick={[MockFunction]}
+  style={
+    Object {
+      "cursor": "pointer",
+      "lineHeight": "30px",
+    }
+  }
+>
+  TODO
+   - 
+  Task4
+</li>
+`;
